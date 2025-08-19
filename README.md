@@ -11,5 +11,4 @@
               * do not appear on the web page.
   Why-define character encoding
 7.Best way to add images-
-     *<img src="path/to/image.jpg" alt="Description of image">
      *Use CDNs or ImageKit for fast loading and scaling
